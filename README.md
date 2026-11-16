@@ -41,4 +41,4 @@ python `expense_categorizer.py` + **`Expense_Categorizer.ipynb`**
 Shows practical application of classification. Useful for daily life + good for interviews.
 
 ## Author
-Built for AI Intern portfolio.
+Build By Muhammad Ali Hassan.
